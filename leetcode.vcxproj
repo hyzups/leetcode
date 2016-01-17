@@ -19,10 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{556BB70A-84FF-4D68-9C18-FA5BBD185E36}</ProjectGuid>
-    <RootNamespace>LeetCodeH</RootNamespace>
+    <ProjectGuid>{D49A58A5-45AB-4C58-A43C-F4BA86C5CB0D}</ProjectGuid>
+    <RootNamespace>leetcode</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Leetcode</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -119,7 +118,93 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include=".\src\*.cpp" />
+    <ClCompile Include="src\3Sum.cpp" />
+    <ClCompile Include="src\3SumClosest.cpp" />
+    <ClCompile Include="src\AddDigits.cpp" />
+    <ClCompile Include="src\AdditiveNumber.cpp" />
+    <ClCompile Include="src\AddTowNumbers.cpp" />
+    <ClCompile Include="src\BestTimeToBuyAndSellStock.cpp" />
+    <ClCompile Include="src\BestTimeToBuyAndSellStockII.cpp" />
+    <ClCompile Include="src\BestTimeToBuyAndSellStockIII.cpp" />
+    <ClCompile Include="src\BestTimetoBuyandSellStockwithCooldown.cpp" />
+    <ClCompile Include="src\BinaryTreePostorderTraversal.cpp" />
+    <ClCompile Include="src\BinaryTreePreoderTraversal.cpp" />
+    <ClCompile Include="src\BulkSwitcher.cpp" />
+    <ClCompile Include="src\BullsAndCows.cpp" />
+    <ClCompile Include="src\Candy.cpp" />
+    <ClCompile Include="src\CloneGraph.cpp" />
+    <ClCompile Include="src\CombinationSum.cpp" />
+    <ClCompile Include="src\CombinationSumII.cpp" />
+    <ClCompile Include="src\CompareVersionNumbers.cpp" />
+    <ClCompile Include="src\ConvertSortedArrayToBinarySearchTree.cpp" />
+    <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp" />
+    <ClCompile Include="src\CopyWithRandomPointer.cpp" />
+    <ClCompile Include="src\DivideTwoIntegers.cpp" />
+    <ClCompile Include="src\DungeonGame.cpp" />
+    <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
+    <ClCompile Include="src\ExcelSheetColumnTitle.cpp" />
+    <ClCompile Include="src\FindMedianFromDataStream.cpp" />
+    <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp" />
+    <ClCompile Include="src\FindMinimuminRotatedSortedArrayII.cpp" />
+    <ClCompile Include="src\FindPeakElement.cpp" />
+    <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
+    <ClCompile Include="src\GasStation.cpp" />
+    <ClCompile Include="src\InsertionSortedList.cpp" />
+    <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
+    <ClCompile Include="src\LinkedListCycle.cpp" />
+    <ClCompile Include="src\LinkedListCycleII.cpp" />
+    <ClCompile Include="src\LogestConsecutiveSequence.cpp" />
+    <ClCompile Include="src\LogestPalindromicSubstring.cpp" />
+    <ClCompile Include="src\LongestIncreasingSubsequence.cpp" />
+    <ClCompile Include="src\LRUCache.cpp" />
+    <ClCompile Include="src\MainEntry.cpp" />
+    <ClCompile Include="src\MajorityElement.cpp" />
+    <ClCompile Include="src\MaximumDepthofBinaryTree.cpp" />
+    <ClCompile Include="src\MaximumGap.cpp" />
+    <ClCompile Include="src\MaximumProductofWordLengths.cpp" />
+    <ClCompile Include="src\MaximumProductSubarray.cpp" />
+    <ClCompile Include="src\MaxPointsonaLine.cpp" />
+    <ClCompile Include="src\MinStack.cpp" />
+    <ClCompile Include="src\MinumumHeightTree.cpp" />
+    <ClCompile Include="src\MinumunSizeSubarraySum.cpp" />
+    <ClCompile Include="src\MoveZeroes.cpp" />
+    <ClCompile Include="src\NimGame.cpp" />
+    <ClCompile Include="src\PalindromeLinkedList.cpp" />
+    <ClCompile Include="src\PalindromeNumber.cpp" />
+    <ClCompile Include="src\PalindromePartition.cpp" />
+    <ClCompile Include="src\PalindromePartitioningII.cpp" />
+    <ClCompile Include="src\Permutations.cpp" />
+    <ClCompile Include="src\PermutationSequence.cpp" />
+    <ClCompile Include="src\RangeSumQuery.cpp" />
+    <ClCompile Include="src\RangeSumQuery2D.cpp" />
+    <ClCompile Include="src\RangSumQueryMutable.cpp" />
+    <ClCompile Include="src\RegularExpressionMatching.cpp" />
+    <ClCompile Include="src\RegularExpressionMatching1.cpp" />
+    <ClCompile Include="src\RemoveDuplicateLetters.cpp" />
+    <ClCompile Include="src\RemoveDuplicatesfromSortedArray.cpp" />
+    <ClCompile Include="src\RemoveInvalidParenthesis.cpp" />
+    <ClCompile Include="src\ReorderList.cpp" />
+    <ClCompile Include="src\ReverseWordsinaString.cpp" />
+    <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
+    <ClCompile Include="src\SingleNumber.cpp" />
+    <ClCompile Include="src\SingleNumberII.cpp" />
+    <ClCompile Include="src\SingleNumberIII.cpp" />
+    <ClCompile Include="src\SortList.cpp" />
+    <ClCompile Include="src\SqrtX.cpp" />
+    <ClCompile Include="src\StringtoInteger.cpp" />
+    <ClCompile Include="src\SumRoottoLeafNumbers.cpp" />
+    <ClCompile Include="src\SuperUglyNumber.cpp" />
+    <ClCompile Include="src\TwoSum.cpp" />
+    <ClCompile Include="src\TwoSumcpp.cpp" />
+    <ClCompile Include="src\UglyNumber.cpp" />
+    <ClCompile Include="src\UglyNumberII.cpp" />
+    <ClCompile Include="src\ValidNumber.cpp" />
+    <ClCompile Include="src\ValidPalindrome.cpp" />
+    <ClCompile Include="src\WordBreak.cpp" />
+    <ClCompile Include="src\WordBreakII.cpp" />
+    <ClCompile Include="src\WordLadder.cpp" />
+    <ClCompile Include="src\WordLadderII.cpp" />
+    <ClCompile Include="src\WordPattern.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
