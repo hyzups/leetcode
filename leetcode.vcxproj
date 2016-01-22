@@ -127,6 +127,7 @@
     <ClCompile Include="src\BestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockIII.cpp" />
     <ClCompile Include="src\BestTimetoBuyandSellStockwithCooldown.cpp" />
+    <ClCompile Include="src\BinarySearchTreeIterator.cpp" />
     <ClCompile Include="src\BinaryTreePostorderTraversal.cpp" />
     <ClCompile Include="src\BinaryTreePreoderTraversal.cpp" />
     <ClCompile Include="src\BulkSwitcher.cpp" />
@@ -142,7 +143,9 @@
     <ClCompile Include="src\DivideTwoIntegers.cpp" />
     <ClCompile Include="src\DungeonGame.cpp" />
     <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
+    <ClCompile Include="src\ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="src\ExcelSheetColumnTitle.cpp" />
+    <ClCompile Include="src\FactorialTrailingZeroes.cpp" />
     <ClCompile Include="src\FindMedianFromDataStream.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArrayII.cpp" />
@@ -151,6 +154,7 @@
     <ClCompile Include="src\GasStation.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
+    <ClCompile Include="src\LargestNumber.cpp" />
     <ClCompile Include="src\LinkedListCycle.cpp" />
     <ClCompile Include="src\LinkedListCycleII.cpp" />
     <ClCompile Include="src\LogestConsecutiveSequence.cpp" />
