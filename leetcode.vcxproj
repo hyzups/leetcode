@@ -118,7 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\3Sum.cpp" />
+    <ClCompile Include="src\1 3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
     <ClCompile Include="src\AddDigits.cpp" />
     <ClCompile Include="src\AdditiveNumber.cpp" />
@@ -126,6 +126,7 @@
     <ClCompile Include="src\BestTimeToBuyAndSellStock.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockIII.cpp" />
+    <ClCompile Include="src\BestTimetoBuyandSellStockIV.cpp" />
     <ClCompile Include="src\BestTimetoBuyandSellStockwithCooldown.cpp" />
     <ClCompile Include="src\BinarySearchTreeIterator.cpp" />
     <ClCompile Include="src\BinaryTreePostorderTraversal.cpp" />
@@ -173,10 +174,12 @@
     <ClCompile Include="src\MinumunSizeSubarraySum.cpp" />
     <ClCompile Include="src\MoveZeroes.cpp" />
     <ClCompile Include="src\NimGame.cpp" />
+    <ClCompile Include="src\Numberof1Bits.cpp" />
     <ClCompile Include="src\PalindromeLinkedList.cpp" />
     <ClCompile Include="src\PalindromeNumber.cpp" />
     <ClCompile Include="src\PalindromePartition.cpp" />
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
+    <ClCompile Include="src\PatchingArray.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
     <ClCompile Include="src\PermutationSequence.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
@@ -188,6 +191,7 @@
     <ClCompile Include="src\RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="src\RemoveInvalidParenthesis.cpp" />
     <ClCompile Include="src\ReorderList.cpp" />
+    <ClCompile Include="src\RepeatedDNASequences.cpp" />
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="src\SingleNumber.cpp" />

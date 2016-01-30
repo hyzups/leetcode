@@ -51,12 +51,3 @@ public:
     }
 };
 
-int main() {
-    Solution S;
-    Point p1(0, 0);
-    Point p2(1, 0);
-    vector<Point> points;
-    points.push_back(p1);
-    points.push_back(p2);
-    S.maxPoints(points);
-}

@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\3Sum.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\3SumClosest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -283,6 +280,24 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\BinarySearchTreeIterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LargestNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\RepeatedDNASequences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\BestTimetoBuyandSellStockIV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Numberof1Bits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PatchingArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\1 3Sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
