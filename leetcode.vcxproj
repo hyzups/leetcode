@@ -118,7 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\1 3Sum.cpp" />
+    <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
     <ClCompile Include="src\AddDigits.cpp" />
     <ClCompile Include="src\AdditiveNumber.cpp" />
@@ -141,6 +141,8 @@
     <ClCompile Include="src\ConvertSortedArrayToBinarySearchTree.cpp" />
     <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
+    <ClCompile Include="src\CountofRangeSum.cpp" />
+    <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp" />
     <ClCompile Include="src\DivideTwoIntegers.cpp" />
     <ClCompile Include="src\DungeonGame.cpp" />
     <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
@@ -160,7 +162,9 @@
     <ClCompile Include="src\LinkedListCycleII.cpp" />
     <ClCompile Include="src\LogestConsecutiveSequence.cpp" />
     <ClCompile Include="src\LogestPalindromicSubstring.cpp" />
+    <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp" />
     <ClCompile Include="src\LongestIncreasingSubsequence.cpp" />
+    <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="src\LRUCache.cpp" />
     <ClCompile Include="src\MainEntry.cpp" />
     <ClCompile Include="src\MajorityElement.cpp" />
@@ -175,6 +179,7 @@
     <ClCompile Include="src\MoveZeroes.cpp" />
     <ClCompile Include="src\NimGame.cpp" />
     <ClCompile Include="src\Numberof1Bits.cpp" />
+    <ClCompile Include="src\OddEvenLinkedList.cpp" />
     <ClCompile Include="src\PalindromeLinkedList.cpp" />
     <ClCompile Include="src\PalindromeNumber.cpp" />
     <ClCompile Include="src\PalindromePartition.cpp" />

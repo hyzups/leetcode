@@ -1,3 +1,13 @@
+// # URL:  https://leetcode.com/problems/two-sum/
+// ## Two solutions for this question: 
+// 
+// ### Solution 1: Build the num and the index, then sort the array. Using pointers from both side walking towards the middle (meet at the middle) to find the solution. 
+//                      Time complexity:  O(nlog(n)); Space complexity: O(1)
+// 
+// ### Solution 2: Using the unordered_map to save the visited elements.  When visited a number, first try to find the target complementary number. If find one, return the 
+//                 result; otherwise, save the number to the map with number as the key and index as the value. 
+//                      Time complexity:  O(n); Space complexity: O(n)
+
 #include<cstdio>
 #include<vector>
 #include<algorithm>
