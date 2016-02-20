@@ -131,10 +131,13 @@
     <ClCompile Include="src\BinarySearchTreeIterator.cpp" />
     <ClCompile Include="src\BinaryTreePostorderTraversal.cpp" />
     <ClCompile Include="src\BinaryTreePreoderTraversal.cpp" />
+    <ClCompile Include="src\BinaryTreeRightSideView.cpp" />
     <ClCompile Include="src\BulkSwitcher.cpp" />
     <ClCompile Include="src\BullsAndCows.cpp" />
+    <ClCompile Include="src\BurstBallons.cpp" />
     <ClCompile Include="src\Candy.cpp" />
     <ClCompile Include="src\CloneGraph.cpp" />
+    <ClCompile Include="src\CoinChange.cpp" />
     <ClCompile Include="src\CombinationSum.cpp" />
     <ClCompile Include="src\CombinationSumII.cpp" />
     <ClCompile Include="src\CompareVersionNumbers.cpp" />
@@ -143,6 +146,7 @@
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
     <ClCompile Include="src\CountofRangeSum.cpp" />
     <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp" />
+    <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DivideTwoIntegers.cpp" />
     <ClCompile Include="src\DungeonGame.cpp" />
     <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
@@ -153,10 +157,15 @@
     <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArrayII.cpp" />
     <ClCompile Include="src\FindPeakElement.cpp" />
+    <ClCompile Include="src\FindtheDuplicateNumber.cpp" />
+    <ClCompile Include="src\FirstMissingPositive.cpp" />
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
     <ClCompile Include="src\GasStation.cpp" />
+    <ClCompile Include="src\HouseRobber.cpp" />
+    <ClCompile Include="src\HouseRobberII.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
+    <ClCompile Include="src\KthLargestElemantinanArray.cpp" />
     <ClCompile Include="src\LargestNumber.cpp" />
     <ClCompile Include="src\LinkedListCycle.cpp" />
     <ClCompile Include="src\LinkedListCycleII.cpp" />
@@ -197,7 +206,9 @@
     <ClCompile Include="src\RemoveInvalidParenthesis.cpp" />
     <ClCompile Include="src\ReorderList.cpp" />
     <ClCompile Include="src\RepeatedDNASequences.cpp" />
+    <ClCompile Include="src\ReverseBits.cpp" />
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
+    <ClCompile Include="src\RotateArray.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="src\SingleNumber.cpp" />
     <ClCompile Include="src\SingleNumberII.cpp" />
@@ -213,6 +224,7 @@
     <ClCompile Include="src\UglyNumberII.cpp" />
     <ClCompile Include="src\ValidNumber.cpp" />
     <ClCompile Include="src\ValidPalindrome.cpp" />
+    <ClCompile Include="src\WiggleSortII.cpp" />
     <ClCompile Include="src\WordBreak.cpp" />
     <ClCompile Include="src\WordBreakII.cpp" />
     <ClCompile Include="src\WordLadder.cpp" />
