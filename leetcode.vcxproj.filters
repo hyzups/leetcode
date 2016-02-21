@@ -324,9 +324,6 @@
     <ClCompile Include="src\CoinChange.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CreateMaximumNumber.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\BurstBallons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

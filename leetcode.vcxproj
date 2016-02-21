@@ -146,7 +146,6 @@
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
     <ClCompile Include="src\CountofRangeSum.cpp" />
     <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp" />
-    <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DivideTwoIntegers.cpp" />
     <ClCompile Include="src\DungeonGame.cpp" />
     <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
