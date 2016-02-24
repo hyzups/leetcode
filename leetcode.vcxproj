@@ -149,6 +149,7 @@
     <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp" />
     <ClCompile Include="src\CountPrimes.cpp" />
     <ClCompile Include="src\CourseSchedule.cpp" />
+    <ClCompile Include="src\CourseScheduleII.cpp" />
     <ClCompile Include="src\DivideTwoIntegers.cpp" />
     <ClCompile Include="src\DungeonGame.cpp" />
     <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="src\HappyNumber.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
+    <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
     <ClCompile Include="src\IsomorphicStrings.cpp" />
