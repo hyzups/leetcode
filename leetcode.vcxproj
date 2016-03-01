@@ -120,6 +120,7 @@
   <ItemGroup>
     <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
+    <ClCompile Include="src\AddandSearchWord.cpp" />
     <ClCompile Include="src\AddDigits.cpp" />
     <ClCompile Include="src\AdditiveNumber.cpp" />
     <ClCompile Include="src\AddTowNumbers.cpp" />
@@ -141,7 +142,10 @@
     <ClCompile Include="src\CoinChange.cpp" />
     <ClCompile Include="src\CombinationSum.cpp" />
     <ClCompile Include="src\CombinationSumII.cpp" />
+    <ClCompile Include="src\CombinationSumIII.cpp" />
     <ClCompile Include="src\CompareVersionNumbers.cpp" />
+    <ClCompile Include="src\ContainsDupliates.cpp" />
+    <ClCompile Include="src\ContainsDuplicateII.cpp" />
     <ClCompile Include="src\ConvertSortedArrayToBinarySearchTree.cpp" />
     <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
@@ -218,6 +222,7 @@
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
     <ClCompile Include="src\RotateArray.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
+    <ClCompile Include="src\ShortestPalindrome.cpp" />
     <ClCompile Include="src\SingleNumber.cpp" />
     <ClCompile Include="src\SingleNumberII.cpp" />
     <ClCompile Include="src\SingleNumberIII.cpp" />
@@ -238,6 +243,7 @@
     <ClCompile Include="src\WordLadder.cpp" />
     <ClCompile Include="src\WordLadderII.cpp" />
     <ClCompile Include="src\WordPattern.cpp" />
+    <ClCompile Include="src\WordSearchII.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
