@@ -146,6 +146,7 @@
     <ClCompile Include="src\CompareVersionNumbers.cpp" />
     <ClCompile Include="src\ContainsDupliates.cpp" />
     <ClCompile Include="src\ContainsDuplicateII.cpp" />
+    <ClCompile Include="src\ContainsDuplicateIII.cpp" />
     <ClCompile Include="src\ConvertSortedArrayToBinarySearchTree.cpp" />
     <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
@@ -187,6 +188,7 @@
     <ClCompile Include="src\LRUCache.cpp" />
     <ClCompile Include="src\MainEntry.cpp" />
     <ClCompile Include="src\MajorityElement.cpp" />
+    <ClCompile Include="src\MaximalSquare.cpp" />
     <ClCompile Include="src\MaximumDepthofBinaryTree.cpp" />
     <ClCompile Include="src\MaximumGap.cpp" />
     <ClCompile Include="src\MaximumProductofWordLengths.cpp" />
@@ -205,6 +207,7 @@
     <ClCompile Include="src\PalindromePartition.cpp" />
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
+    <ClCompile Include="src\PerfectSquare.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
     <ClCompile Include="src\PermutationSequence.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
