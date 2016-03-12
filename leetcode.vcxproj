@@ -124,6 +124,7 @@
     <ClCompile Include="src\AddDigits.cpp" />
     <ClCompile Include="src\AdditiveNumber.cpp" />
     <ClCompile Include="src\AddTowNumbers.cpp" />
+    <ClCompile Include="src\BasicCalculator.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStock.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockIII.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="src\ConvertSortedArrayToBinarySearchTree.cpp" />
     <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
+    <ClCompile Include="src\CountCompleteTreeNodes.cpp" />
     <ClCompile Include="src\CountofRangeSum.cpp" />
     <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp" />
     <ClCompile Include="src\CountPrimes.cpp" />
@@ -213,6 +215,7 @@
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
     <ClCompile Include="src\RangSumQueryMutable.cpp" />
+    <ClCompile Include="src\RectangleArea.cpp" />
     <ClCompile Include="src\RegularExpressionMatching.cpp" />
     <ClCompile Include="src\RegularExpressionMatching1.cpp" />
     <ClCompile Include="src\RemoveDuplicateLetters.cpp" />
