@@ -91,15 +91,3 @@ public:
     }
 };
 
-int main() {
-    vector<vector<char>> board = {
-        {'o', 'a', 'a', 'n'},
-        { 'e', 't', 'a', 'e'},
-        {'i', 'h', 'k', 'r'},
-        {'i', 'f', 'l', 'v'}
-    };
-
-    vector<string> words = { "oath", "pea", "eat", "rain" };
-    Solution s;
-    s.findWords(board, words);
-}

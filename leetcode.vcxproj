@@ -125,6 +125,7 @@
     <ClCompile Include="src\AdditiveNumber.cpp" />
     <ClCompile Include="src\AddTowNumbers.cpp" />
     <ClCompile Include="src\BasicCalculator.cpp" />
+    <ClCompile Include="src\BasicCalculatorII.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStock.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockII.cpp" />
     <ClCompile Include="src\BestTimeToBuyAndSellStockIII.cpp" />
@@ -174,9 +175,11 @@
     <ClCompile Include="src\HappyNumber.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
+    <ClCompile Include="src\ImplementStackUsingQueues.cpp" />
     <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
+    <ClCompile Include="src\InvertBinaryTree.cpp" />
     <ClCompile Include="src\IsomorphicStrings.cpp" />
     <ClCompile Include="src\KthLargestElemantinanArray.cpp" />
     <ClCompile Include="src\LargestNumber.cpp" />
@@ -250,6 +253,7 @@
     <ClCompile Include="src\WordLadderII.cpp" />
     <ClCompile Include="src\WordPattern.cpp" />
     <ClCompile Include="src\WordSearchII.cpp" />
+    <ClCompile Include="VerifyPreorderSerializationofaBinaryTree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
