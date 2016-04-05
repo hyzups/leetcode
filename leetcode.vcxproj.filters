@@ -417,10 +417,19 @@
     <ClCompile Include="src\InvertBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="VerifyPreorderSerializationofaBinaryTree.cpp">
+    <ClCompile Include="src\BasicCalculatorII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BasicCalculatorII.cpp">
+    <ClCompile Include="src\VerifyPreorderSerializationofaBinaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\HouseRobberIII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PermutationII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

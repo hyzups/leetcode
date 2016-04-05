@@ -7,12 +7,12 @@ using namespace  std;
 class Solution {
 public:
     int rangeBitwiseAnd(int m, int n) {
-        int c = 0; 
+        int c = 0;
         while (m != n) {
-            m >> 1; 
+            m >> 1;
             n >> 1;
-            c++; 
+            c++;
         }
-        return n << c; 
+        return n << c;
     }
 };

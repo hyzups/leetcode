@@ -153,6 +153,7 @@
     <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp" />
     <ClCompile Include="src\CopyWithRandomPointer.cpp" />
     <ClCompile Include="src\CountCompleteTreeNodes.cpp" />
+    <ClCompile Include="src\CountingBits.cpp" />
     <ClCompile Include="src\CountofRangeSum.cpp" />
     <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp" />
     <ClCompile Include="src\CountPrimes.cpp" />
@@ -170,11 +171,13 @@
     <ClCompile Include="src\FindPeakElement.cpp" />
     <ClCompile Include="src\FindtheDuplicateNumber.cpp" />
     <ClCompile Include="src\FirstMissingPositive.cpp" />
+    <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp" />
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
     <ClCompile Include="src\GasStation.cpp" />
     <ClCompile Include="src\HappyNumber.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
+    <ClCompile Include="src\HouseRobberIII.cpp" />
     <ClCompile Include="src\ImplementStackUsingQueues.cpp" />
     <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
@@ -209,10 +212,12 @@
     <ClCompile Include="src\OddEvenLinkedList.cpp" />
     <ClCompile Include="src\PalindromeLinkedList.cpp" />
     <ClCompile Include="src\PalindromeNumber.cpp" />
+    <ClCompile Include="src\PalindromePairs.cpp" />
     <ClCompile Include="src\PalindromePartition.cpp" />
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
     <ClCompile Include="src\PerfectSquare.cpp" />
+    <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
     <ClCompile Include="src\PermutationSequence.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
@@ -238,6 +243,7 @@
     <ClCompile Include="src\SortList.cpp" />
     <ClCompile Include="src\SqrtX.cpp" />
     <ClCompile Include="src\StringtoInteger.cpp" />
+    <ClCompile Include="src\SummaryRanges.cpp" />
     <ClCompile Include="src\SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="src\SuperUglyNumber.cpp" />
     <ClCompile Include="src\TwoSum.cpp" />
@@ -253,7 +259,7 @@
     <ClCompile Include="src\WordLadderII.cpp" />
     <ClCompile Include="src\WordPattern.cpp" />
     <ClCompile Include="src\WordSearchII.cpp" />
-    <ClCompile Include="VerifyPreorderSerializationofaBinaryTree.cpp" />
+    <ClCompile Include="src\VerifyPreorderSerializationofaBinaryTree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
