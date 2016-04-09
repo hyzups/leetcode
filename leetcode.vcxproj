@@ -159,6 +159,7 @@
     <ClCompile Include="src\CountPrimes.cpp" />
     <ClCompile Include="src\CourseSchedule.cpp" />
     <ClCompile Include="src\CourseScheduleII.cpp" />
+    <ClCompile Include="src\DifferentWaystoAddParenthesis.cpp" />
     <ClCompile Include="src\DivideTwoIntegers.cpp" />
     <ClCompile Include="src\DungeonGame.cpp" />
     <ClCompile Include="src\EvaluateReversePolishNotation.cpp" />
@@ -178,6 +179,7 @@
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
     <ClCompile Include="src\HouseRobberIII.cpp" />
+    <ClCompile Include="src\ImplementQueueUsingStack.cpp" />
     <ClCompile Include="src\ImplementStackUsingQueues.cpp" />
     <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
@@ -195,6 +197,7 @@
     <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="src\LRUCache.cpp" />
     <ClCompile Include="src\MainEntry.cpp" />
+    <ClCompile Include="src\MajorElementII.cpp" />
     <ClCompile Include="src\MajorityElement.cpp" />
     <ClCompile Include="src\MaximalSquare.cpp" />
     <ClCompile Include="src\MaximumDepthofBinaryTree.cpp" />
@@ -208,6 +211,7 @@
     <ClCompile Include="src\MoveZeroes.cpp" />
     <ClCompile Include="src\NimGame.cpp" />
     <ClCompile Include="src\Numberof1Bits.cpp" />
+    <ClCompile Include="src\NumberofDigitOne.cpp" />
     <ClCompile Include="src\NumberofIslands.cpp" />
     <ClCompile Include="src\OddEvenLinkedList.cpp" />
     <ClCompile Include="src\PalindromeLinkedList.cpp" />
@@ -220,6 +224,7 @@
     <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
     <ClCompile Include="src\PermutationSequence.cpp" />
+    <ClCompile Include="src\PowerofTwo.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
     <ClCompile Include="src\RangSumQueryMutable.cpp" />
