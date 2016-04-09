@@ -182,6 +182,7 @@
     <ClCompile Include="src\ImplementQueueUsingStack.cpp" />
     <ClCompile Include="src\ImplementStackUsingQueues.cpp" />
     <ClCompile Include="src\ImplementTrie.cpp" />
+    <ClCompile Include="src\IncreastingTripletSubsequence.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
     <ClCompile Include="src\InvertBinaryTree.cpp" />
@@ -240,6 +241,7 @@
     <ClCompile Include="src\ReverseBits.cpp" />
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
     <ClCompile Include="src\RotateArray.cpp" />
+    <ClCompile Include="src\SelfCrossing.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="src\ShortestPalindrome.cpp" />
     <ClCompile Include="src\SingleNumber.cpp" />
