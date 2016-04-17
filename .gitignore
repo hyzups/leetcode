@@ -4,3 +4,5 @@
 /*.opensdf
 /*.user
 /*.opendb
+/x64
+/leetcode.VC.db

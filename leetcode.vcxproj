@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
     <ClCompile Include="src\AddandSearchWord.cpp" />
@@ -221,6 +222,7 @@
     <ClCompile Include="src\PalindromePartition.cpp" />
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
+    <ClCompile Include="src\PeekingIterator.cpp" />
     <ClCompile Include="src\PerfectSquare.cpp" />
     <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
