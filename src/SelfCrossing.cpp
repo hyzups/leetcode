@@ -7,18 +7,22 @@ using namespace std;
 
 class Solution {
 public:
-	bool isSelfCrossing(vector<int>& nums) {
-
-		int a[4] = { 0, 0, 0, 0 };
-
-		int x = 0, y = 0;
-
-		for (int i = 0; i < nums.size(); i++)
-			if (i % 4 == 0) {
-				x += nums[i];
-				a[i % 4] = max(a[i % 4], x);
-			}
-
-
-	}
-}; 
+    bool isSelfCrossing(vector<int>& nums) {
+        for (size_t i = 3; i < nums.size(); i++) {
+            if (nums[i - 1] <= nums[i - 3] && nums[i] >= nums[i - 2]) {
+                return true;
+            }
+            if (i > 3 && (nums[i - 1] == nums[i - 3] && nums[i] + nums[i - 2] >= nums[i - 4])) {
+                return true;
+            }
+            if (i > 4
+                && nums[i-2] - nums[i-4] >= 0
+                && nums[i] + nums[i - 4] >= nums[i - 2] 
+                && nums[i-5] + nums[i-3] >= nums[i-1] 
+                && nums[i-3] <= nums[i-1] + nums[i-5]) {
+                return true;
+            }
+        }
+        return false;
+    }
+};

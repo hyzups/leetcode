@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
@@ -174,7 +175,9 @@
     <ClCompile Include="src\FindtheDuplicateNumber.cpp" />
     <ClCompile Include="src\FirstMissingPositive.cpp" />
     <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp" />
+    <ClCompile Include="src\FlatternNestedListIterator.cpp" />
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
+    <ClCompile Include="src\GameofLife.cpp" />
     <ClCompile Include="src\GasStation.cpp" />
     <ClCompile Include="src\HappyNumber.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
@@ -185,6 +188,7 @@
     <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\IncreastingTripletSubsequence.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
+    <ClCompile Include="src\IntegerBreak.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
     <ClCompile Include="src\InvertBinaryTree.cpp" />
     <ClCompile Include="src\IsomorphicStrings.cpp" />
@@ -227,10 +231,12 @@
     <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
     <ClCompile Include="src\PermutationSequence.cpp" />
+    <ClCompile Include="src\PowerofFour.cpp" />
     <ClCompile Include="src\PowerofTwo.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
     <ClCompile Include="src\RangSumQueryMutable.cpp" />
+    <ClCompile Include="src\ReconstructureItinerary.cpp" />
     <ClCompile Include="src\RectangleArea.cpp" />
     <ClCompile Include="src\RegularExpressionMatching.cpp" />
     <ClCompile Include="src\RegularExpressionMatching1.cpp" />
@@ -241,6 +247,8 @@
     <ClCompile Include="src\ReorderList.cpp" />
     <ClCompile Include="src\RepeatedDNASequences.cpp" />
     <ClCompile Include="src\ReverseBits.cpp" />
+    <ClCompile Include="src\ReverseString.cpp" />
+    <ClCompile Include="src\ReverseVowelsofaString.cpp" />
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
     <ClCompile Include="src\RotateArray.cpp" />
     <ClCompile Include="src\SelfCrossing.cpp" />
@@ -255,6 +263,7 @@
     <ClCompile Include="src\SummaryRanges.cpp" />
     <ClCompile Include="src\SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="src\SuperUglyNumber.cpp" />
+    <ClCompile Include="src\TopKFrequentElements.cpp" />
     <ClCompile Include="src\TwoSum.cpp" />
     <ClCompile Include="src\TwoSumcpp.cpp" />
     <ClCompile Include="src\UglyNumber.cpp" />
