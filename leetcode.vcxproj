@@ -187,12 +187,16 @@
     <ClCompile Include="src\ImplementStackUsingQueues.cpp" />
     <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\IncreastingTripletSubsequence.cpp" />
+    <ClCompile Include="src\InsertDeleteGetRandom.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntegerBreak.cpp" />
+    <ClCompile Include="src\IntersectionofTwoArrays.cpp" />
+    <ClCompile Include="src\IntersectionofTwoArraysII.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
     <ClCompile Include="src\InvertBinaryTree.cpp" />
     <ClCompile Include="src\IsomorphicStrings.cpp" />
     <ClCompile Include="src\KthLargestElemantinanArray.cpp" />
+    <ClCompile Include="src\KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="src\LargestNumber.cpp" />
     <ClCompile Include="src\LinkedListCycle.cpp" />
     <ClCompile Include="src\LinkedListCycleII.cpp" />
@@ -232,6 +236,7 @@
     <ClCompile Include="src\Permutations.cpp" />
     <ClCompile Include="src\PermutationSequence.cpp" />
     <ClCompile Include="src\PowerofFour.cpp" />
+    <ClCompile Include="src\PowerofThree.cpp" />
     <ClCompile Include="src\PowerofTwo.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
@@ -270,6 +275,7 @@
     <ClCompile Include="src\UglyNumberII.cpp" />
     <ClCompile Include="src\ValidNumber.cpp" />
     <ClCompile Include="src\ValidPalindrome.cpp" />
+    <ClCompile Include="src\ValidPerfectSquare.cpp" />
     <ClCompile Include="src\WiggleSortII.cpp" />
     <ClCompile Include="src\WordBreak.cpp" />
     <ClCompile Include="src\WordBreakII.cpp" />
