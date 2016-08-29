@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\CombinationSumIV.cpp" />
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
@@ -168,6 +169,7 @@
     <ClCompile Include="src\ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="src\ExcelSheetColumnTitle.cpp" />
     <ClCompile Include="src\FactorialTrailingZeroes.cpp" />
+    <ClCompile Include="src\FindKPairswithSmallestSums.cpp" />
     <ClCompile Include="src\FindMedianFromDataStream.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArrayII.cpp" />
@@ -179,6 +181,8 @@
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
     <ClCompile Include="src\GameofLife.cpp" />
     <ClCompile Include="src\GasStation.cpp" />
+    <ClCompile Include="src\GuessNumberHigherorLower.cpp" />
+    <ClCompile Include="src\GuessNUmberHigherorLowerII.cpp" />
     <ClCompile Include="src\HappyNumber.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
@@ -188,6 +192,7 @@
     <ClCompile Include="src\ImplementTrie.cpp" />
     <ClCompile Include="src\IncreastingTripletSubsequence.cpp" />
     <ClCompile Include="src\InsertDeleteGetRandom.cpp" />
+    <ClCompile Include="src\InsertDeleteGetRandomDuplicatedAllowed.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntegerBreak.cpp" />
     <ClCompile Include="src\IntersectionofTwoArrays.cpp" />
@@ -266,7 +271,9 @@
     <ClCompile Include="src\SqrtX.cpp" />
     <ClCompile Include="src\StringtoInteger.cpp" />
     <ClCompile Include="src\SummaryRanges.cpp" />
+    <ClCompile Include="src\SumofTwoIntegers.cpp" />
     <ClCompile Include="src\SumRoottoLeafNumbers.cpp" />
+    <ClCompile Include="src\SuperPow.cpp" />
     <ClCompile Include="src\SuperUglyNumber.cpp" />
     <ClCompile Include="src\TopKFrequentElements.cpp" />
     <ClCompile Include="src\TwoSum.cpp" />
@@ -277,6 +284,7 @@
     <ClCompile Include="src\ValidPalindrome.cpp" />
     <ClCompile Include="src\ValidPerfectSquare.cpp" />
     <ClCompile Include="src\WiggleSortII.cpp" />
+    <ClCompile Include="src\WiggleSubsequence.cpp" />
     <ClCompile Include="src\WordBreak.cpp" />
     <ClCompile Include="src\WordBreakII.cpp" />
     <ClCompile Include="src\WordLadder.cpp" />

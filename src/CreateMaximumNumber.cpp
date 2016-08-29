@@ -77,10 +77,10 @@ public:
 	}
 };
 
-int main() {
-	vector<int> v1{ 1, 2 };
-	vector<int> v2{};
-
-	Solution s;
-	s.maxNumber(v1, v2, 2);
-}
+//int main() {
+//	vector<int> v1{ 1, 2 };
+//	vector<int> v2{};
+//
+//	Solution s;
+//	s.maxNumber(v1, v2, 2);
+//}
