@@ -175,6 +175,7 @@
     <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArrayII.cpp" />
     <ClCompile Include="src\FindPeakElement.cpp" />
+    <ClCompile Include="src\FindtheDifference.cpp" />
     <ClCompile Include="src\FindtheDuplicateNumber.cpp" />
     <ClCompile Include="src\FirstMissingPositive.cpp" />
     <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp" />
@@ -210,6 +211,7 @@
     <ClCompile Include="src\LinkedListRandomNode.cpp" />
     <ClCompile Include="src\LogestConsecutiveSequence.cpp" />
     <ClCompile Include="src\LogestPalindromicSubstring.cpp" />
+    <ClCompile Include="src\LongestAbsoluteFilePath.cpp" />
     <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp" />
     <ClCompile Include="src\LongestIncreasingSubsequence.cpp" />
     <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp" />
@@ -239,6 +241,7 @@
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
     <ClCompile Include="src\PeekingIterator.cpp" />
+    <ClCompile Include="src\PerfectRectangle.cpp" />
     <ClCompile Include="src\PerfectSquare.cpp" />
     <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
