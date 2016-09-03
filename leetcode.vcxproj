@@ -120,6 +120,7 @@
   <ItemGroup>
     <ClCompile Include="src\CombinationSumIV.cpp" />
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
+    <ClCompile Include="src\DataStreamasDisjointIntervals.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
@@ -202,9 +203,11 @@
     <ClCompile Include="src\IsomorphicStrings.cpp" />
     <ClCompile Include="src\KthLargestElemantinanArray.cpp" />
     <ClCompile Include="src\KthSmallestElementinaSortedMatrix.cpp" />
+    <ClCompile Include="src\LargestDivisibleSubset.cpp" />
     <ClCompile Include="src\LargestNumber.cpp" />
     <ClCompile Include="src\LinkedListCycle.cpp" />
     <ClCompile Include="src\LinkedListCycleII.cpp" />
+    <ClCompile Include="src\LinkedListRandomNode.cpp" />
     <ClCompile Include="src\LogestConsecutiveSequence.cpp" />
     <ClCompile Include="src\LogestPalindromicSubstring.cpp" />
     <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp" />
@@ -246,6 +249,7 @@
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
     <ClCompile Include="src\RangSumQueryMutable.cpp" />
+    <ClCompile Include="src\RansomNote.cpp" />
     <ClCompile Include="src\ReconstructureItinerary.cpp" />
     <ClCompile Include="src\RectangleArea.cpp" />
     <ClCompile Include="src\RegularExpressionMatching.cpp" />
@@ -261,6 +265,7 @@
     <ClCompile Include="src\ReverseVowelsofaString.cpp" />
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
     <ClCompile Include="src\RotateArray.cpp" />
+    <ClCompile Include="src\RussianDollEnvelopes.cpp" />
     <ClCompile Include="src\SelfCrossing.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="src\ShortestPalindrome.cpp" />
