@@ -121,6 +121,7 @@
     <ClCompile Include="src\CombinationSumIV.cpp" />
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DataStreamasDisjointIntervals.cpp" />
+    <ClCompile Include="src\DecodeString.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
@@ -178,6 +179,7 @@
     <ClCompile Include="src\FindtheDifference.cpp" />
     <ClCompile Include="src\FindtheDuplicateNumber.cpp" />
     <ClCompile Include="src\FirstMissingPositive.cpp" />
+    <ClCompile Include="src\FirstUniqueCharacterinaString.cpp" />
     <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp" />
     <ClCompile Include="src\FlatternNestedListIterator.cpp" />
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
@@ -202,6 +204,7 @@
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
     <ClCompile Include="src\InvertBinaryTree.cpp" />
     <ClCompile Include="src\IsomorphicStrings.cpp" />
+    <ClCompile Include="src\IsSubSequence.cpp" />
     <ClCompile Include="src\KthLargestElemantinanArray.cpp" />
     <ClCompile Include="src\KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="src\LargestDivisibleSubset.cpp" />
@@ -225,6 +228,7 @@
     <ClCompile Include="src\MaximumProductofWordLengths.cpp" />
     <ClCompile Include="src\MaximumProductSubarray.cpp" />
     <ClCompile Include="src\MaxPointsonaLine.cpp" />
+    <ClCompile Include="src\MiniParser.cpp" />
     <ClCompile Include="src\MinStack.cpp" />
     <ClCompile Include="src\MinumumHeightTree.cpp" />
     <ClCompile Include="src\MinumunSizeSubarraySum.cpp" />
@@ -241,7 +245,6 @@
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
     <ClCompile Include="src\PeekingIterator.cpp" />
-    <ClCompile Include="src\PerfectRectangle.cpp" />
     <ClCompile Include="src\PerfectSquare.cpp" />
     <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
@@ -272,6 +275,7 @@
     <ClCompile Include="src\SelfCrossing.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="src\ShortestPalindrome.cpp" />
+    <ClCompile Include="src\ShuffleanArray.cpp" />
     <ClCompile Include="src\SingleNumber.cpp" />
     <ClCompile Include="src\SingleNumberII.cpp" />
     <ClCompile Include="src\SingleNumberIII.cpp" />
@@ -288,6 +292,7 @@
     <ClCompile Include="src\TwoSumcpp.cpp" />
     <ClCompile Include="src\UglyNumber.cpp" />
     <ClCompile Include="src\UglyNumberII.cpp" />
+    <ClCompile Include="src\UTF8Validation.cpp" />
     <ClCompile Include="src\ValidNumber.cpp" />
     <ClCompile Include="src\ValidPalindrome.cpp" />
     <ClCompile Include="src\ValidPerfectSquare.cpp" />
