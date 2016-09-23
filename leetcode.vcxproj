@@ -122,6 +122,7 @@
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DataStreamasDisjointIntervals.cpp" />
     <ClCompile Include="src\DecodeString.cpp" />
+    <ClCompile Include="src\EvaluateDivision.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
     <ClCompile Include="src\3SumClosest.cpp" />
@@ -209,6 +210,7 @@
     <ClCompile Include="src\KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="src\LargestDivisibleSubset.cpp" />
     <ClCompile Include="src\LargestNumber.cpp" />
+    <ClCompile Include="src\LexicographicalNumbers.cpp" />
     <ClCompile Include="src\LinkedListCycle.cpp" />
     <ClCompile Include="src\LinkedListCycleII.cpp" />
     <ClCompile Include="src\LinkedListRandomNode.cpp" />
@@ -217,6 +219,7 @@
     <ClCompile Include="src\LongestAbsoluteFilePath.cpp" />
     <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp" />
     <ClCompile Include="src\LongestIncreasingSubsequence.cpp" />
+    <ClCompile Include="src\LongestSubstringwithAtLeastKRepeatingCharacters.cpp" />
     <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="src\LRUCache.cpp" />
     <ClCompile Include="src\MainEntry.cpp" />
@@ -234,6 +237,7 @@
     <ClCompile Include="src\MinumunSizeSubarraySum.cpp" />
     <ClCompile Include="src\MoveZeroes.cpp" />
     <ClCompile Include="src\NimGame.cpp" />
+    <ClCompile Include="src\NthDigit.cpp" />
     <ClCompile Include="src\Numberof1Bits.cpp" />
     <ClCompile Include="src\NumberofDigitOne.cpp" />
     <ClCompile Include="src\NumberofIslands.cpp" />
@@ -245,6 +249,7 @@
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
     <ClCompile Include="src\PeekingIterator.cpp" />
+    <ClCompile Include="src\PerfectRectangle.cpp" />
     <ClCompile Include="src\PerfectSquare.cpp" />
     <ClCompile Include="src\PermutationII.cpp" />
     <ClCompile Include="src\Permutations.cpp" />
@@ -252,6 +257,7 @@
     <ClCompile Include="src\PowerofFour.cpp" />
     <ClCompile Include="src\PowerofThree.cpp" />
     <ClCompile Include="src\PowerofTwo.cpp" />
+    <ClCompile Include="src\RandomPickIndex.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
     <ClCompile Include="src\RangSumQueryMutable.cpp" />
