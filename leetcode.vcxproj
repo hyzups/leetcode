@@ -118,10 +118,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\BinaryWatch.cpp" />
     <ClCompile Include="src\CombinationSumIV.cpp" />
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DataStreamasDisjointIntervals.cpp" />
     <ClCompile Include="src\DecodeString.cpp" />
+    <ClCompile Include="src\EliminationGame.cpp" />
     <ClCompile Include="src\EvaluateDivision.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
     <ClCompile Include="src\3Sum.cpp" />
@@ -200,6 +202,7 @@
     <ClCompile Include="src\InsertDeleteGetRandomDuplicatedAllowed.cpp" />
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntegerBreak.cpp" />
+    <ClCompile Include="src\IntegerReplacement.cpp" />
     <ClCompile Include="src\IntersectionofTwoArrays.cpp" />
     <ClCompile Include="src\IntersectionofTwoArraysII.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
@@ -277,6 +280,7 @@
     <ClCompile Include="src\ReverseVowelsofaString.cpp" />
     <ClCompile Include="src\ReverseWordsinaString.cpp" />
     <ClCompile Include="src\RotateArray.cpp" />
+    <ClCompile Include="src\RotateFunction.cpp" />
     <ClCompile Include="src\RussianDollEnvelopes.cpp" />
     <ClCompile Include="src\SelfCrossing.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
