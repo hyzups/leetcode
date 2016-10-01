@@ -118,11 +118,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\BinaryTreePath.cpp" />
     <ClCompile Include="src\BinaryWatch.cpp" />
     <ClCompile Include="src\CombinationSumIV.cpp" />
+    <ClCompile Include="src\CountNumberswithUniqueCounts.cpp" />
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DataStreamasDisjointIntervals.cpp" />
     <ClCompile Include="src\DecodeString.cpp" />
+    <ClCompile Include="src\DesignTwitter.cpp" />
     <ClCompile Include="src\EliminationGame.cpp" />
     <ClCompile Include="src\EvaluateDivision.cpp" />
     <ClCompile Include="src\ExpressionAndOperators.cpp" />
@@ -191,6 +194,7 @@
     <ClCompile Include="src\GuessNumberHigherorLower.cpp" />
     <ClCompile Include="src\GuessNUmberHigherorLowerII.cpp" />
     <ClCompile Include="src\HappyNumber.cpp" />
+    <ClCompile Include="src\HIndex.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
     <ClCompile Include="src\HouseRobberIII.cpp" />
@@ -234,6 +238,7 @@
     <ClCompile Include="src\MaximumProductofWordLengths.cpp" />
     <ClCompile Include="src\MaximumProductSubarray.cpp" />
     <ClCompile Include="src\MaxPointsonaLine.cpp" />
+    <ClCompile Include="src\MaxSumofRectangleNoLargerThanK.cpp" />
     <ClCompile Include="src\MiniParser.cpp" />
     <ClCompile Include="src\MinStack.cpp" />
     <ClCompile Include="src\MinumumHeightTree.cpp" />
@@ -306,6 +311,7 @@
     <ClCompile Include="src\ValidNumber.cpp" />
     <ClCompile Include="src\ValidPalindrome.cpp" />
     <ClCompile Include="src\ValidPerfectSquare.cpp" />
+    <ClCompile Include="src\WaterandJugProblem.cpp" />
     <ClCompile Include="src\WiggleSortII.cpp" />
     <ClCompile Include="src\WiggleSubsequence.cpp" />
     <ClCompile Include="src\WordBreak.cpp" />
