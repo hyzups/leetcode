@@ -243,6 +243,7 @@
     <ClCompile Include="src\MinStack.cpp" />
     <ClCompile Include="src\MinumumHeightTree.cpp" />
     <ClCompile Include="src\MinumunSizeSubarraySum.cpp" />
+    <ClCompile Include="src\MissingNumber.cpp" />
     <ClCompile Include="src\MoveZeroes.cpp" />
     <ClCompile Include="src\NimGame.cpp" />
     <ClCompile Include="src\NthDigit.cpp" />
@@ -308,6 +309,7 @@
     <ClCompile Include="src\UglyNumber.cpp" />
     <ClCompile Include="src\UglyNumberII.cpp" />
     <ClCompile Include="src\UTF8Validation.cpp" />
+    <ClCompile Include="src\ValidAnagram.cpp" />
     <ClCompile Include="src\ValidNumber.cpp" />
     <ClCompile Include="src\ValidPalindrome.cpp" />
     <ClCompile Include="src\ValidPerfectSquare.cpp" />

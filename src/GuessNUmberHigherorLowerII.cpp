@@ -24,9 +24,9 @@ public:
     }
 };
 
-int main()
-{
-
-    Solution s;
-    s.getMoneyAmount(3);
-}
+//int main()
+//{
+//
+//    Solution s;
+//    s.getMoneyAmount(3);
+//}
