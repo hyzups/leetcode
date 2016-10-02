@@ -184,11 +184,13 @@
     <ClCompile Include="src\FindPeakElement.cpp" />
     <ClCompile Include="src\FindtheDifference.cpp" />
     <ClCompile Include="src\FindtheDuplicateNumber.cpp" />
+    <ClCompile Include="src\FirstBadVersion.cpp" />
     <ClCompile Include="src\FirstMissingPositive.cpp" />
     <ClCompile Include="src\FirstUniqueCharacterinaString.cpp" />
     <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp" />
     <ClCompile Include="src\FlatternNestedListIterator.cpp" />
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
+    <ClCompile Include="src\FrogJump.cpp" />
     <ClCompile Include="src\GameofLife.cpp" />
     <ClCompile Include="src\GasStation.cpp" />
     <ClCompile Include="src\GuessNumberHigherorLower.cpp" />
@@ -214,6 +216,7 @@
     <ClCompile Include="src\IsomorphicStrings.cpp" />
     <ClCompile Include="src\IsSubSequence.cpp" />
     <ClCompile Include="src\KthLargestElemantinanArray.cpp" />
+    <ClCompile Include="src\KthSmallestElementinaBST.cpp" />
     <ClCompile Include="src\KthSmallestElementinaSortedMatrix.cpp" />
     <ClCompile Include="src\LargestDivisibleSubset.cpp" />
     <ClCompile Include="src\LargestNumber.cpp" />
@@ -278,6 +281,7 @@
     <ClCompile Include="src\RemoveDuplicateLetters.cpp" />
     <ClCompile Include="src\RemoveDuplicatesfromSortedArray.cpp" />
     <ClCompile Include="src\RemoveInvalidParenthesis.cpp" />
+    <ClCompile Include="src\RemoveKDigits.cpp" />
     <ClCompile Include="src\RemoveLinkedListElement.cpp" />
     <ClCompile Include="src\ReorderList.cpp" />
     <ClCompile Include="src\RepeatedDNASequences.cpp" />
