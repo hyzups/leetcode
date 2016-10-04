@@ -197,6 +197,7 @@
     <ClCompile Include="src\GuessNUmberHigherorLowerII.cpp" />
     <ClCompile Include="src\HappyNumber.cpp" />
     <ClCompile Include="src\HIndex.cpp" />
+    <ClCompile Include="src\HIndexII.cpp" />
     <ClCompile Include="src\HouseRobber.cpp" />
     <ClCompile Include="src\HouseRobberII.cpp" />
     <ClCompile Include="src\HouseRobberIII.cpp" />
@@ -209,6 +210,7 @@
     <ClCompile Include="src\InsertionSortedList.cpp" />
     <ClCompile Include="src\IntegerBreak.cpp" />
     <ClCompile Include="src\IntegerReplacement.cpp" />
+    <ClCompile Include="src\IntegertoEnglishWords.cpp" />
     <ClCompile Include="src\IntersectionofTwoArrays.cpp" />
     <ClCompile Include="src\IntersectionofTwoArraysII.cpp" />
     <ClCompile Include="src\IntersectionofTwoLinkedList.cpp" />
@@ -269,6 +271,7 @@
     <ClCompile Include="src\PowerofFour.cpp" />
     <ClCompile Include="src\PowerofThree.cpp" />
     <ClCompile Include="src\PowerofTwo.cpp" />
+    <ClCompile Include="src\ProductofArrayExceptSelf.cpp" />
     <ClCompile Include="src\RandomPickIndex.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
@@ -292,6 +295,7 @@
     <ClCompile Include="src\RotateArray.cpp" />
     <ClCompile Include="src\RotateFunction.cpp" />
     <ClCompile Include="src\RussianDollEnvelopes.cpp" />
+    <ClCompile Include="src\Searcha2DMatrixII.cpp" />
     <ClCompile Include="src\SelfCrossing.cpp" />
     <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp" />
     <ClCompile Include="src\ShortestPalindrome.cpp" />
@@ -299,10 +303,12 @@
     <ClCompile Include="src\SingleNumber.cpp" />
     <ClCompile Include="src\SingleNumberII.cpp" />
     <ClCompile Include="src\SingleNumberIII.cpp" />
+    <ClCompile Include="src\SlidingWindowMaximum.cpp" />
     <ClCompile Include="src\SortList.cpp" />
     <ClCompile Include="src\SqrtX.cpp" />
     <ClCompile Include="src\StringtoInteger.cpp" />
     <ClCompile Include="src\SummaryRanges.cpp" />
+    <ClCompile Include="src\SumofLeftLeaves.cpp" />
     <ClCompile Include="src\SumofTwoIntegers.cpp" />
     <ClCompile Include="src\SumRoottoLeafNumbers.cpp" />
     <ClCompile Include="src\SuperPow.cpp" />
