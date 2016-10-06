@@ -121,6 +121,7 @@
     <ClCompile Include="src\BinaryTreePath.cpp" />
     <ClCompile Include="src\BinaryWatch.cpp" />
     <ClCompile Include="src\CombinationSumIV.cpp" />
+    <ClCompile Include="src\ConvertaNumbertoHexadecimal.cpp" />
     <ClCompile Include="src\CountNumberswithUniqueCounts.cpp" />
     <ClCompile Include="src\CreateMaximumNumber.cpp" />
     <ClCompile Include="src\DataStreamasDisjointIntervals.cpp" />
@@ -231,8 +232,11 @@
     <ClCompile Include="src\LongestAbsoluteFilePath.cpp" />
     <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp" />
     <ClCompile Include="src\LongestIncreasingSubsequence.cpp" />
+    <ClCompile Include="src\LongestPalindrome.cpp" />
     <ClCompile Include="src\LongestSubstringwithAtLeastKRepeatingCharacters.cpp" />
     <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp" />
+    <ClCompile Include="src\LowestCommonAncestorofaBinarySearchTree.cpp" />
+    <ClCompile Include="src\LowestCommonAncestorofaBinaryTree.cpp" />
     <ClCompile Include="src\LRUCache.cpp" />
     <ClCompile Include="src\MainEntry.cpp" />
     <ClCompile Include="src\MajorElementII.cpp" />
@@ -272,6 +276,7 @@
     <ClCompile Include="src\PowerofThree.cpp" />
     <ClCompile Include="src\PowerofTwo.cpp" />
     <ClCompile Include="src\ProductofArrayExceptSelf.cpp" />
+    <ClCompile Include="src\QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="src\RandomPickIndex.cpp" />
     <ClCompile Include="src\RangeSumQuery.cpp" />
     <ClCompile Include="src\RangeSumQuery2D.cpp" />
@@ -316,6 +321,7 @@
     <ClCompile Include="src\TopKFrequentElements.cpp" />
     <ClCompile Include="src\TwoSum.cpp" />
     <ClCompile Include="src\TwoSumcpp.cpp" />
+    <ClCompile Include="src\TwoSummII.cpp" />
     <ClCompile Include="src\UglyNumber.cpp" />
     <ClCompile Include="src\UglyNumberII.cpp" />
     <ClCompile Include="src\UTF8Validation.cpp" />

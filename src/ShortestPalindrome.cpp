@@ -35,8 +35,3 @@ public:
         return revS.substr(0, s.size() - kmp[temp.size() - 1]) + s;
     }
 };
-
-int main() {
-    Solution s;
-    s.shortestPalindrome("aacecaaa");
-}
