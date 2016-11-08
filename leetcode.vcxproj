@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\ArrangingCoins.cpp" />
     <ClCompile Include="src\BinaryTreePath.cpp" />
     <ClCompile Include="src\BinaryWatch.cpp" />
     <ClCompile Include="src\CombinationSumIV.cpp" />
@@ -178,6 +179,7 @@
     <ClCompile Include="src\ExcelSheetColumnNumber.cpp" />
     <ClCompile Include="src\ExcelSheetColumnTitle.cpp" />
     <ClCompile Include="src\FactorialTrailingZeroes.cpp" />
+    <ClCompile Include="src\FindAllAnagramsinaString.cpp" />
     <ClCompile Include="src\FindKPairswithSmallestSums.cpp" />
     <ClCompile Include="src\FindMedianFromDataStream.cpp" />
     <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp" />
@@ -188,6 +190,7 @@
     <ClCompile Include="src\FirstBadVersion.cpp" />
     <ClCompile Include="src\FirstMissingPositive.cpp" />
     <ClCompile Include="src\FirstUniqueCharacterinaString.cpp" />
+    <ClCompile Include="src\FizzBuzz.cpp" />
     <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp" />
     <ClCompile Include="src\FlatternNestedListIterator.cpp" />
     <ClCompile Include="src\FractiontoRecurringDecimal.cpp" />
@@ -233,6 +236,7 @@
     <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp" />
     <ClCompile Include="src\LongestIncreasingSubsequence.cpp" />
     <ClCompile Include="src\LongestPalindrome.cpp" />
+    <ClCompile Include="src\LongestRepeatingCharacterReplacement.cpp" />
     <ClCompile Include="src\LongestSubstringwithAtLeastKRepeatingCharacters.cpp" />
     <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="src\LowestCommonAncestorofaBinarySearchTree.cpp" />
@@ -266,6 +270,7 @@
     <ClCompile Include="src\PalindromePartition.cpp" />
     <ClCompile Include="src\PalindromePartitioningII.cpp" />
     <ClCompile Include="src\PatchingArray.cpp" />
+    <ClCompile Include="src\PathSumIII.cpp" />
     <ClCompile Include="src\PeekingIterator.cpp" />
     <ClCompile Include="src\PerfectRectangle.cpp" />
     <ClCompile Include="src\PerfectSquare.cpp" />
@@ -310,6 +315,7 @@
     <ClCompile Include="src\SingleNumberIII.cpp" />
     <ClCompile Include="src\SlidingWindowMaximum.cpp" />
     <ClCompile Include="src\SortList.cpp" />
+    <ClCompile Include="src\SplitArrayLargestSum.cpp" />
     <ClCompile Include="src\SqrtX.cpp" />
     <ClCompile Include="src\StringtoInteger.cpp" />
     <ClCompile Include="src\SummaryRanges.cpp" />
@@ -319,6 +325,7 @@
     <ClCompile Include="src\SuperPow.cpp" />
     <ClCompile Include="src\SuperUglyNumber.cpp" />
     <ClCompile Include="src\TopKFrequentElements.cpp" />
+    <ClCompile Include="src\TrappingRainWaterII.cpp" />
     <ClCompile Include="src\TwoSum.cpp" />
     <ClCompile Include="src\TwoSumcpp.cpp" />
     <ClCompile Include="src\TwoSummII.cpp" />

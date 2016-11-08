@@ -1,3 +1,5 @@
+/// Source URL: https://leetcode.com/problems/frog-jump/
+
 #include <vector>
 #include <set>
 #include <algorithm> 
@@ -6,35 +8,34 @@
 
 using namespace std;
 
-static int dx[] = { -1, 0, 1 };
-
 class Solution {
+private:
+    unordered_map<int, bool> dp;
+
 public:
     bool canCross(vector<int>& stones) {
-        int len = stones.size();
-        unordered_map<int, vector<int>> steps;
-
-        for (auto i : stones) {
-            steps[i] = vector<int>();
-        }
-
-        steps[0].push_back(0);
-
-        for (auto i : stones) {
-            for (auto j : steps[i])
-                for (int k = 0; k <= 2; k++) {
-                    int nextStep = j + dx[k];
-                    if (nextStep) {
-                        if (steps.find(nextStep + i) != steps.end()) {
-                            steps[i + nextStep].push_back(nextStep);
-                        }
-                    }
-                }
-        }
-
-        if (steps[stones[len - 1]].size() > 0) {
+        if (stones.size() < 2) {
             return true;
         }
-        return false;
+        return canCross(stones, 0, 0);
+    }
+
+    bool canCross(vector<int>& stones, int pos, int k) {
+        int key = pos | k << 11;
+        if (dp.count(key) > 0) {
+            return dp[key];
+        }
+
+        for (size_t i = pos + 1; i < stones.size(); i++) {
+            int gap = stones[i] - stones[pos];
+            if (gap < k - 1) continue;
+            if (gap > k + 1) {
+                return dp[key] = false;
+            }
+            if (canCross(stones, i, gap)) {
+                return dp[key] = true;
+            }
+        }
+        return dp[key] = (pos == stones.size() - 1);
     }
 };
