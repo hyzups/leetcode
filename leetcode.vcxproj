@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\132Pattern.cpp" />
     <ClCompile Include="src\ArrangingCoins.cpp" />
     <ClCompile Include="src\BinaryTreePath.cpp" />
     <ClCompile Include="src\BinaryWatch.cpp" />
@@ -252,15 +253,18 @@
     <ClCompile Include="src\MaximumProductSubarray.cpp" />
     <ClCompile Include="src\MaxPointsonaLine.cpp" />
     <ClCompile Include="src\MaxSumofRectangleNoLargerThanK.cpp" />
+    <ClCompile Include="src\MinimumMovestoEqualArrayElements.cpp" />
     <ClCompile Include="src\MiniParser.cpp" />
     <ClCompile Include="src\MinStack.cpp" />
     <ClCompile Include="src\MinumumHeightTree.cpp" />
+    <ClCompile Include="src\MinumumNumberofArrowstoBurstBallons.cpp" />
     <ClCompile Include="src\MinumunSizeSubarraySum.cpp" />
     <ClCompile Include="src\MissingNumber.cpp" />
     <ClCompile Include="src\MoveZeroes.cpp" />
     <ClCompile Include="src\NimGame.cpp" />
     <ClCompile Include="src\NthDigit.cpp" />
     <ClCompile Include="src\Numberof1Bits.cpp" />
+    <ClCompile Include="src\NumberofBoomerangs.cpp" />
     <ClCompile Include="src\NumberofDigitOne.cpp" />
     <ClCompile Include="src\NumberofIslands.cpp" />
     <ClCompile Include="src\OddEvenLinkedList.cpp" />
@@ -298,6 +302,7 @@
     <ClCompile Include="src\RemoveLinkedListElement.cpp" />
     <ClCompile Include="src\ReorderList.cpp" />
     <ClCompile Include="src\RepeatedDNASequences.cpp" />
+    <ClCompile Include="src\RepeatedSubstringPattern.cpp" />
     <ClCompile Include="src\ReverseBits.cpp" />
     <ClCompile Include="src\ReverseString.cpp" />
     <ClCompile Include="src\ReverseVowelsofaString.cpp" />
