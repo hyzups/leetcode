@@ -15,703 +15,727 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\3SumClosest.cpp">
+    <ClCompile Include="src\200\3Sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\AddDigits.cpp">
+    <ClCompile Include="src\200\3SumClosest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\AdditiveNumber.cpp">
+    <ClCompile Include="src\200\132Pattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\AddTowNumbers.cpp">
+    <ClCompile Include="src\200\AddandSearchWord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BestTimeToBuyAndSellStock.cpp">
+    <ClCompile Include="src\200\AddDigits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BestTimeToBuyAndSellStockII.cpp">
+    <ClCompile Include="src\200\AdditiveNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BestTimeToBuyAndSellStockIII.cpp">
+    <ClCompile Include="src\200\AddTowNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BestTimetoBuyandSellStockwithCooldown.cpp">
+    <ClCompile Include="src\200\ArrangingCoins.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BinaryTreePostorderTraversal.cpp">
+    <ClCompile Include="src\200\BasicCalculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BinaryTreePreoderTraversal.cpp">
+    <ClCompile Include="src\200\BasicCalculatorII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BulkSwitcher.cpp">
+    <ClCompile Include="src\200\BestTimeToBuyAndSellStock.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BullsAndCows.cpp">
+    <ClCompile Include="src\200\BestTimeToBuyAndSellStockII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Candy.cpp">
+    <ClCompile Include="src\200\BestTimeToBuyAndSellStockIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CloneGraph.cpp">
+    <ClCompile Include="src\200\BestTimetoBuyandSellStockIV.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CombinationSum.cpp">
+    <ClCompile Include="src\200\BestTimetoBuyandSellStockwithCooldown.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CombinationSumII.cpp">
+    <ClCompile Include="src\200\BinarySearchTreeIterator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CompareVersionNumbers.cpp">
+    <ClCompile Include="src\200\BinaryTreePath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ConvertSortedArrayToBinarySearchTree.cpp">
+    <ClCompile Include="src\200\BinaryTreePostorderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ConvertSortedListToBinarySearchTree.cpp">
+    <ClCompile Include="src\200\BinaryTreePreoderTraversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CopyWithRandomPointer.cpp">
+    <ClCompile Include="src\200\BinaryTreeRightSideView.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\DivideTwoIntegers.cpp">
+    <ClCompile Include="src\200\BinaryWatch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\DungeonGame.cpp">
+    <ClCompile Include="src\200\BitwiseANDofNumbersRange.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\EvaluateReversePolishNotation.cpp">
+    <ClCompile Include="src\200\BulkSwitcher.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ExcelSheetColumnTitle.cpp">
+    <ClCompile Include="src\200\BullsAndCows.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindMedianFromDataStream.cpp">
+    <ClCompile Include="src\200\BurstBallons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindMinimuminRotatedSortedArray.cpp">
+    <ClCompile Include="src\200\Candy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindMinimuminRotatedSortedArrayII.cpp">
+    <ClCompile Include="src\200\CloneGraph.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindPeakElement.cpp">
+    <ClCompile Include="src\200\CoinChange.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FractiontoRecurringDecimal.cpp">
+    <ClCompile Include="src\200\CombinationSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\GasStation.cpp">
+    <ClCompile Include="src\200\CombinationSumII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\InsertionSortedList.cpp">
+    <ClCompile Include="src\200\CombinationSumIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IntersectionofTwoLinkedList.cpp">
+    <ClCompile Include="src\200\CombinationSumIV.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LinkedListCycle.cpp">
+    <ClCompile Include="src\200\CompareVersionNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LinkedListCycleII.cpp">
+    <ClCompile Include="src\200\ContainsDupliates.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LogestConsecutiveSequence.cpp">
+    <ClCompile Include="src\200\ContainsDuplicateII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LogestPalindromicSubstring.cpp">
+    <ClCompile Include="src\200\ContainsDuplicateIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestIncreasingSubsequence.cpp">
+    <ClCompile Include="src\200\ConvertaNumbertoHexadecimal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LRUCache.cpp">
+    <ClCompile Include="src\200\ConvertSortedArrayToBinarySearchTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MainEntry.cpp">
+    <ClCompile Include="src\200\ConvertSortedListToBinarySearchTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MajorityElement.cpp">
+    <ClCompile Include="src\200\CopyWithRandomPointer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaximumDepthofBinaryTree.cpp">
+    <ClCompile Include="src\200\CountCompleteTreeNodes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaximumGap.cpp">
+    <ClCompile Include="src\200\CountingBits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaximumProductofWordLengths.cpp">
+    <ClCompile Include="src\200\CountNumberswithUniqueCounts.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaximumProductSubarray.cpp">
+    <ClCompile Include="src\200\CountofRangeSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaxPointsonaLine.cpp">
+    <ClCompile Include="src\200\CountofSmallerNumbersAfterSelf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MinStack.cpp">
+    <ClCompile Include="src\200\CountPrimes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MinumumHeightTree.cpp">
+    <ClCompile Include="src\200\CourseSchedule.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MinumunSizeSubarraySum.cpp">
+    <ClCompile Include="src\200\CourseScheduleII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MoveZeroes.cpp">
+    <ClCompile Include="src\200\CreateMaximumNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\NimGame.cpp">
+    <ClCompile Include="src\200\DataStreamasDisjointIntervals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PalindromeLinkedList.cpp">
+    <ClCompile Include="src\200\DecodeString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PalindromeNumber.cpp">
+    <ClCompile Include="src\200\DesignTwitter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PalindromePartition.cpp">
+    <ClCompile Include="src\200\DifferentWaystoAddParenthesis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PalindromePartitioningII.cpp">
+    <ClCompile Include="src\200\DistinctSequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Permutations.cpp">
+    <ClCompile Include="src\200\DivideTwoIntegers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PermutationSequence.cpp">
+    <ClCompile Include="src\200\DungeonGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RangeSumQuery.cpp">
+    <ClCompile Include="src\200\EliminationGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RangeSumQuery2D.cpp">
+    <ClCompile Include="src\200\EvaluateDivision.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RangSumQueryMutable.cpp">
+    <ClCompile Include="src\200\EvaluateReversePolishNotation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RegularExpressionMatching.cpp">
+    <ClCompile Include="src\200\ExcelSheetColumnNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RegularExpressionMatching1.cpp">
+    <ClCompile Include="src\200\ExcelSheetColumnTitle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RemoveDuplicateLetters.cpp">
+    <ClCompile Include="src\200\ExpressionAndOperators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RemoveDuplicatesfromSortedArray.cpp">
+    <ClCompile Include="src\200\FactorialTrailingZeroes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RemoveInvalidParenthesis.cpp">
+    <ClCompile Include="src\200\FindAllAnagramsinaString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ReorderList.cpp">
+    <ClCompile Include="src\200\FindKPairswithSmallestSums.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ReverseWordsinaString.cpp">
+    <ClCompile Include="src\200\FindMedianFromDataStream.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SerializeAndDeserializeBinaryTree.cpp">
+    <ClCompile Include="src\200\FindMinimuminRotatedSortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SingleNumber.cpp">
+    <ClCompile Include="src\200\FindMinimuminRotatedSortedArrayII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SingleNumberII.cpp">
+    <ClCompile Include="src\200\FindPeakElement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SingleNumberIII.cpp">
+    <ClCompile Include="src\200\FindtheDifference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SortList.cpp">
+    <ClCompile Include="src\200\FindtheDuplicateNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SqrtX.cpp">
+    <ClCompile Include="src\200\FirstBadVersion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\StringtoInteger.cpp">
+    <ClCompile Include="src\200\FirstMissingPositive.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SumRoottoLeafNumbers.cpp">
+    <ClCompile Include="src\200\FirstUniqueCharacterinaString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SuperUglyNumber.cpp">
+    <ClCompile Include="src\200\FizzBuzz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\TwoSum.cpp">
+    <ClCompile Include="src\200\FlattenBinaryTreetoLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\TwoSumcpp.cpp">
+    <ClCompile Include="src\200\FlatternNestedListIterator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\UglyNumber.cpp">
+    <ClCompile Include="src\200\FractiontoRecurringDecimal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\UglyNumberII.cpp">
+    <ClCompile Include="src\200\FrogJump.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ValidNumber.cpp">
+    <ClCompile Include="src\200\GameofLife.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ValidPalindrome.cpp">
+    <ClCompile Include="src\200\GasStation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WordBreak.cpp">
+    <ClCompile Include="src\200\GuessNumberHigherorLower.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WordBreakII.cpp">
+    <ClCompile Include="src\200\GuessNUmberHigherorLowerII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WordLadder.cpp">
+    <ClCompile Include="src\200\HappyNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WordLadderII.cpp">
+    <ClCompile Include="src\200\HIndex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WordPattern.cpp">
+    <ClCompile Include="src\200\HIndexII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ExcelSheetColumnNumber.cpp">
+    <ClCompile Include="src\200\HouseRobber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FactorialTrailingZeroes.cpp">
+    <ClCompile Include="src\200\HouseRobberII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BinarySearchTreeIterator.cpp">
+    <ClCompile Include="src\200\HouseRobberIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LargestNumber.cpp">
+    <ClCompile Include="src\200\ImplementQueueUsingStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RepeatedDNASequences.cpp">
+    <ClCompile Include="src\200\ImplementStackUsingQueues.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BestTimetoBuyandSellStockIV.cpp">
+    <ClCompile Include="src\200\ImplementTrie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Numberof1Bits.cpp">
+    <ClCompile Include="src\200\IncreastingTripletSubsequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PatchingArray.cpp">
+    <ClCompile Include="src\200\InsertDeleteGetRandom.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\3Sum.cpp">
+    <ClCompile Include="src\200\InsertDeleteGetRandomDuplicatedAllowed.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestIncreasingPathinaMatrix.cpp">
+    <ClCompile Include="src\200\InsertionSortedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\OddEvenLinkedList.cpp">
+    <ClCompile Include="src\200\IntegerBreak.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CountofRangeSum.cpp">
+    <ClCompile Include="src\200\IntegerReplacement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CountofSmallerNumbersAfterSelf.cpp">
+    <ClCompile Include="src\200\IntegertoEnglishWords.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestSubstringWithoutRepeatingCharacters.cpp">
+    <ClCompile Include="src\200\IntersectionofTwoArrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\KthLargestElemantinanArray.cpp">
+    <ClCompile Include="src\200\IntersectionofTwoArraysII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WiggleSortII.cpp">
+    <ClCompile Include="src\200\IntersectionofTwoLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CoinChange.cpp">
+    <ClCompile Include="src\200\InvertBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BurstBallons.cpp">
+    <ClCompile Include="src\200\IsomorphicStrings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindtheDuplicateNumber.cpp">
+    <ClCompile Include="src\200\IsSubSequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FirstMissingPositive.cpp">
+    <ClCompile Include="src\200\KthLargestElemantinanArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RotateArray.cpp">
+    <ClCompile Include="src\200\KthSmallestElementinaBST.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ReverseBits.cpp">
+    <ClCompile Include="src\200\KthSmallestElementinaSortedMatrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\HouseRobber.cpp">
+    <ClCompile Include="src\200\LargestDivisibleSubset.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\HouseRobberII.cpp">
+    <ClCompile Include="src\200\LargestNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BinaryTreeRightSideView.cpp">
+    <ClCompile Include="src\200\LexicographicalNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\NumberofIslands.cpp">
+    <ClCompile Include="src\200\LinkedListCycle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BitwiseANDofNumbersRange.cpp">
+    <ClCompile Include="src\200\LinkedListCycleII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\HappyNumber.cpp">
+    <ClCompile Include="src\200\LinkedListRandomNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RemoveLinkedListElement.cpp">
+    <ClCompile Include="src\200\LogestConsecutiveSequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CountPrimes.cpp">
+    <ClCompile Include="src\200\LogestPalindromicSubstring.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IsomorphicStrings.cpp">
+    <ClCompile Include="src\200\LongestAbsoluteFilePath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CourseSchedule.cpp">
+    <ClCompile Include="src\200\LongestIncreasingPathinaMatrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CourseScheduleII.cpp">
+    <ClCompile Include="src\200\LongestIncreasingSubsequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ImplementTrie.cpp">
+    <ClCompile Include="src\200\LongestPalindrome.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\AddandSearchWord.cpp">
+    <ClCompile Include="src\200\LongestRepeatingCharacterReplacement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WordSearchII.cpp">
+    <ClCompile Include="src\200\LongestSubstringwithAtLeastKRepeatingCharacters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ShortestPalindrome.cpp">
+    <ClCompile Include="src\200\LongestSubstringWithoutRepeatingCharacters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CombinationSumIII.cpp">
+    <ClCompile Include="src\200\LowestCommonAncestorofaBinarySearchTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ContainsDupliates.cpp">
+    <ClCompile Include="src\200\LowestCommonAncestorofaBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ContainsDuplicateII.cpp">
+    <ClCompile Include="src\200\LRUCache.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ContainsDuplicateIII.cpp">
+    <ClCompile Include="src\200\MainEntry.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BasicCalculator.cpp">
+    <ClCompile Include="src\200\MajorElementII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CountCompleteTreeNodes.cpp">
+    <ClCompile Include="src\200\MajorityElement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaximalSquare.cpp">
+    <ClCompile Include="src\200\MaximalSquare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PerfectSquare.cpp">
+    <ClCompile Include="src\200\MaximumDepthofBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RectangleArea.cpp">
+    <ClCompile Include="src\200\MaximumGap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ImplementStackUsingQueues.cpp">
+    <ClCompile Include="src\200\MaximumProductofWordLengths.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\InvertBinaryTree.cpp">
+    <ClCompile Include="src\200\MaximumProductSubarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BasicCalculatorII.cpp">
+    <ClCompile Include="src\200\MaxPointsonaLine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\VerifyPreorderSerializationofaBinaryTree.cpp">
+    <ClCompile Include="src\200\MaxSumofRectangleNoLargerThanK.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\HouseRobberIII.cpp">
+    <ClCompile Include="src\200\MergeInterval.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PermutationII.cpp">
+    <ClCompile Include="src\200\MinimumMovestoEqualArrayElements.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FlattenBinaryTreetoLinkedList.cpp">
+    <ClCompile Include="src\200\MiniParser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CountingBits.cpp">
+    <ClCompile Include="src\200\MinumumHeightTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PalindromePairs.cpp">
+    <ClCompile Include="src\200\MinumumNumberofArrowstoBurstBallons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SummaryRanges.cpp">
+    <ClCompile Include="src\200\MinumunSizeSubarraySum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MajorElementII.cpp">
+    <ClCompile Include="src\200\MissingNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ImplementQueueUsingStack.cpp">
+    <ClCompile Include="src\200\MoveZeroes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\NumberofDigitOne.cpp">
+    <ClCompile Include="src\200\NimGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PowerofTwo.cpp">
+    <ClCompile Include="src\200\NQueensII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\DifferentWaystoAddParenthesis.cpp">
+    <ClCompile Include="src\200\NthDigit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IncreastingTripletSubsequence.cpp">
+    <ClCompile Include="src\200\Numberof1Bits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SelfCrossing.cpp">
+    <ClCompile Include="src\200\NumberofBoomerangs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PeekingIterator.cpp">
+    <ClCompile Include="src\200\NumberofDigitOne.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ExpressionAndOperators.cpp">
+    <ClCompile Include="src\200\NumberofIslands.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ReverseString.cpp">
+    <ClCompile Include="src\200\OddEvenLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IntegerBreak.cpp">
+    <ClCompile Include="src\200\PalindromeLinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PowerofFour.cpp">
+    <ClCompile Include="src\200\PalindromeNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FlatternNestedListIterator.cpp">
+    <ClCompile Include="src\200\PalindromePairs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ReconstructureItinerary.cpp">
+    <ClCompile Include="src\200\PalindromePartition.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\GameofLife.cpp">
+    <ClCompile Include="src\200\PalindromePartitioningII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ReverseVowelsofaString.cpp">
+    <ClCompile Include="src\200\PatchingArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CreateMaximumNumber.cpp">
+    <ClCompile Include="src\200\PathSumIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\TopKFrequentElements.cpp">
+    <ClCompile Include="src\200\PeekingIterator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PowerofThree.cpp">
+    <ClCompile Include="src\200\PerfectRectangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IntersectionofTwoArrays.cpp">
+    <ClCompile Include="src\200\PerfectSquare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IntersectionofTwoArraysII.cpp">
+    <ClCompile Include="src\200\PermutationII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ValidPerfectSquare.cpp">
+    <ClCompile Include="src\200\Permutations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\InsertDeleteGetRandom.cpp">
+    <ClCompile Include="src\200\PermutationSequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\KthSmallestElementinaSortedMatrix.cpp">
+    <ClCompile Include="src\200\PopulatingNextRightPointersInEachNodeII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\InsertDeleteGetRandomDuplicatedAllowed.cpp">
+    <ClCompile Include="src\200\PowerofFour.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CombinationSumIV.cpp">
+    <ClCompile Include="src\200\PowerofThree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WiggleSubsequence.cpp">
+    <ClCompile Include="src\200\PowerofTwo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\GuessNumberHigherorLower.cpp">
+    <ClCompile Include="src\200\ProductofArrayExceptSelf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\GuessNUmberHigherorLowerII.cpp">
+    <ClCompile Include="src\200\QueueReconstructionbyHeight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindKPairswithSmallestSums.cpp">
+    <ClCompile Include="src\200\RandomPickIndex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SumofTwoIntegers.cpp">
+    <ClCompile Include="src\200\RangeSumQuery.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SuperPow.cpp">
+    <ClCompile Include="src\200\RangeSumQuery2D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RussianDollEnvelopes.cpp">
+    <ClCompile Include="src\200\RangSumQueryMutable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\DataStreamasDisjointIntervals.cpp">
+    <ClCompile Include="src\200\RansomNote.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LargestDivisibleSubset.cpp">
+    <ClCompile Include="src\200\ReconstructureItinerary.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LinkedListRandomNode.cpp">
+    <ClCompile Include="src\200\RectangleArea.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RansomNote.cpp">
+    <ClCompile Include="src\200\RegularExpressionMatching.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindtheDifference.cpp">
+    <ClCompile Include="src\200\RegularExpressionMatching1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestAbsoluteFilePath.cpp">
+    <ClCompile Include="src\200\RemoveDuplicateLetters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FirstUniqueCharacterinaString.cpp">
+    <ClCompile Include="src\200\RemoveDuplicatesfromSortedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ShuffleanArray.cpp">
+    <ClCompile Include="src\200\RemoveInvalidParenthesis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MiniParser.cpp">
+    <ClCompile Include="src\200\RemoveKDigits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IsSubSequence.cpp">
+    <ClCompile Include="src\200\RemoveLinkedListElement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\UTF8Validation.cpp">
+    <ClCompile Include="src\200\ReorderList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\DecodeString.cpp">
+    <ClCompile Include="src\200\RepeatedDNASequences.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PerfectRectangle.cpp">
+    <ClCompile Include="src\200\RepeatedSubstringPattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\EvaluateDivision.cpp">
+    <ClCompile Include="src\200\ReverseBits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RandomPickIndex.cpp">
+    <ClCompile Include="src\200\ReverseString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LexicographicalNumbers.cpp">
+    <ClCompile Include="src\200\ReverseVowelsofaString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestSubstringwithAtLeastKRepeatingCharacters.cpp">
+    <ClCompile Include="src\200\ReverseWordsinaString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\NthDigit.cpp">
+    <ClCompile Include="src\200\RotateArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BinaryWatch.cpp">
+    <ClCompile Include="src\200\RotateFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\EliminationGame.cpp">
+    <ClCompile Include="src\200\RussianDollEnvelopes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IntegerReplacement.cpp">
+    <ClCompile Include="src\200\Searcha2DMatrixII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RotateFunction.cpp">
+    <ClCompile Include="src\200\SelfCrossing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\CountNumberswithUniqueCounts.cpp">
+    <ClCompile Include="src\200\SerializeAndDeserializeBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\WaterandJugProblem.cpp">
+    <ClCompile Include="src\200\ShortestPalindrome.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\HIndex.cpp">
+    <ClCompile Include="src\200\ShuffleanArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MaxSumofRectangleNoLargerThanK.cpp">
+    <ClCompile Include="src\200\SingleNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\DesignTwitter.cpp">
+    <ClCompile Include="src\200\SingleNumberII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\BinaryTreePath.cpp">
+    <ClCompile Include="src\200\SingleNumberIII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MissingNumber.cpp">
+    <ClCompile Include="src\200\SlidingWindowMaximum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ValidAnagram.cpp">
+    <ClCompile Include="src\200\SortList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\KthSmallestElementinaBST.cpp">
+    <ClCompile Include="src\200\SpiralMatrixII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FirstBadVersion.cpp">
+    <ClCompile Include="src\200\SplitArrayLargestSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RemoveKDigits.cpp">
+    <ClCompile Include="src\200\SqrtX.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FrogJump.cpp">
+    <ClCompile Include="src\200\StringtoInteger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ProductofArrayExceptSelf.cpp">
+    <ClCompile Include="src\200\SummaryRanges.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SumofLeftLeaves.cpp">
+    <ClCompile Include="src\200\SumofLeftLeaves.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\HIndexII.cpp">
+    <ClCompile Include="src\200\SumofTwoIntegers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\IntegertoEnglishWords.cpp">
+    <ClCompile Include="src\200\SumRoottoLeafNumbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Searcha2DMatrixII.cpp">
+    <ClCompile Include="src\200\SuperPow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SlidingWindowMaximum.cpp">
+    <ClCompile Include="src\200\SuperUglyNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LowestCommonAncestorofaBinarySearchTree.cpp">
+    <ClCompile Include="src\200\TopKFrequentElements.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LowestCommonAncestorofaBinaryTree.cpp">
+    <ClCompile Include="src\200\TrappingRainWaterII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ConvertaNumbertoHexadecimal.cpp">
+    <ClCompile Include="src\200\TwoSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\QueueReconstructionbyHeight.cpp">
+    <ClCompile Include="src\200\TwoSumcpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\TwoSummII.cpp">
+    <ClCompile Include="src\200\TwoSummII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestPalindrome.cpp">
+    <ClCompile Include="src\200\UglyNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FizzBuzz.cpp">
+    <ClCompile Include="src\200\UglyNumberII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\SplitArrayLargestSum.cpp">
+    <ClCompile Include="src\200\UTF8Validation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\TrappingRainWaterII.cpp">
+    <ClCompile Include="src\200\ValidAnagram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\LongestRepeatingCharacterReplacement.cpp">
+    <ClCompile Include="src\200\ValidNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\PathSumIII.cpp">
+    <ClCompile Include="src\200\ValidPalindrome.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\FindAllAnagramsinaString.cpp">
+    <ClCompile Include="src\200\ValidPerfectSquare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ArrangingCoins.cpp">
+    <ClCompile Include="src\200\VerifyPreorderSerializationofaBinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MinimumMovestoEqualArrayElements.cpp">
+    <ClCompile Include="src\200\WaterandJugProblem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\MinumumNumberofArrowstoBurstBallons.cpp">
+    <ClCompile Include="src\200\WiggleSortII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\RepeatedSubstringPattern.cpp">
+    <ClCompile Include="src\200\WiggleSubsequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\132Pattern.cpp">
+    <ClCompile Include="src\200\WordBreak.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\NumberofBoomerangs.cpp">
+    <ClCompile Include="src\200\WordBreakII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\WordLadder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\WordLadderII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\WordPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\WordSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\WordSearchII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\800\ChampagneTower.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\AssignCookies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\200\4SumII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
